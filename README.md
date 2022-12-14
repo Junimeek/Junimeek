@@ -1,4 +1,5 @@
-# Junimeek's profile
+![git](https://user-images.githubusercontent.com/91515906/207489978-12307546-beaf-41f6-ba6c-cdb32861f68f.png)
+***
 Hello there! I'm Juni, a wannabe developer, who's only real accomplishment right now is making an FNF mod, Miku Monday.
 
 Currently, I'm *attempting* to learn C# for Unity development so I can maybe make my own games one day.
