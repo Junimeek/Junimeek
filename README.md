@@ -8,8 +8,11 @@ Currently, I'm *attempting* to learn C# for Unity development so I can maybe mak
 Below is a list of all of my social media accounts.\
 If it's something important, I strongly recommend friending me on Discord and messaging me there, as that is the only social that I'm actively checking daily, which will gaurentee a quick response from me.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/junimeek39?label=Twitter&style=social)](https://twitter.com/junimeek39)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcLHTALAFOr9ikbsgIlp3oQ?label=YouTube&style=social)](https://youtube.com/@Junimeek)
+
 - Discord: Junimeek#5738
-- Twitter: https://twitter.com/junimeek39
+
 
 
 
