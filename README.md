@@ -7,7 +7,7 @@ Currently, I'm *attempting* to learn C# for Unity development so I can maybe mak
 
 ## Contact information
 Below is a list of all of my social media accounts.\
-If it's something important, I strongly recommend ~~friending me on Discord and messaging me there, as that is the only social that I'm actively checking daily, which will gaurentee a quick response from me~~ tagging me on Twitter.
+If it's something important, I strongly recommend either friending me on Discord and messaging me there, or tagging me on Twitter.
 
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/junimeek39?label=Twitter&style=social)](https://twitter.com/junimeek39)
@@ -18,7 +18,7 @@ If it's something important, I strongly recommend ~~friending me on Discord and 
 |:-:|:-:|
 |Twitter|[@junimeek39](https://twitter.com/junimeek39)|
 |YouTube|[@Junimeek](https://www.youtube.com/channel/UCcLHTALAFOr9ikbsgIlp3oQ)|
-|~~Discord~~|~~Junimeek#5738~~
+|Discord|Junimeek#5738
 
 
 
