@@ -18,7 +18,7 @@ If it's something important, I strongly recommend either friending me on Discord
 |:-:|:-:|
 |Twitter|[@junimeek39](https://twitter.com/junimeek39)|
 |YouTube|[@Junimeek](https://www.youtube.com/channel/UCcLHTALAFOr9ikbsgIlp3oQ)|
-|Discord|Junimeek#5738
+|Discord|@junimeek
 
 
 
