@@ -1,7 +1,7 @@
 ![Juniper Header](https://user-images.githubusercontent.com/91515906/226779266-dc2804db-3ceb-4f1e-b203-1de6234a1981.png)
 ***
 Hello there!\
-I'm Juni, a wannabe developer whose only real accomplishment right now is making an FNF mod, Miku Monday.
+I'm Juni, a wannabe developer whose only real accomplishment right now is making a Baldi's Basics mod, Baldi's Extended Schoolhouse.
 
 Currently, I'm *attempting* to learn C# for Unity development so I can maybe make my own games one day.
 
@@ -18,7 +18,7 @@ If it's something important, I strongly recommend either friending me on Discord
 |:-:|:-:|
 |Twitter|[@junimeek39](https://twitter.com/junimeek39)|
 |YouTube|[@Junimeek](https://www.youtube.com/channel/UCcLHTALAFOr9ikbsgIlp3oQ)|
-|Discord|@junimeek
+|Discord|@junimeek39
 
 
 
