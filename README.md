@@ -1,4 +1,4 @@
-![Juniper Header](https://user-images.githubusercontent.com/91515906/226779266-dc2804db-3ceb-4f1e-b203-1de6234a1981.png)
+<img src="https://junimeek.net/kyokura/kyoko-logo.png" style="width: 450px;"></img>
 ***
 Hello there!\
 I'm Juni, a wannabe developer whose only real accomplishment right now is making a Baldi's Basics mod, Baldi's Extended Schoolhouse.
